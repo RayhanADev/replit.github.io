@@ -36,13 +36,13 @@ This is a good project for beginners as it is fairly simple, not requiring movin
 
 To set this project as a homework assignment, you should give the student enough code to get started that they can immediately interact with the program and see how the basics of PyGame works, but not so much starter code that they are overwhelmed and confused by how it works. Giving them around 50 lines of code to start is usually a good ballpark for something that is useful but can also be understood easily.
 
-We've created an example starter Repl that you can fork (and adapt if necessary before giving to your students) [here](https://repl.it/@ritza/memory-game-starter-project). It demonstrates how to lay out the cards using random colours, and how to detect which card a user clicked on.
+We've created an example starter Repl that you can fork (and adapt if necessary before giving to your students) [here](https://replit.com/@ritza/memory-game-starter-project). It demonstrates how to lay out the cards using random colours, and how to detect which card a user clicked on.
 
 ![](https://i.ritzastatic.com/712083f34fd24286b370091de159d07e/memory-starter.png)
 
 ## Example instructions for a student
 
-Here's an example of how you could introduce your students to this project. These instructions are also in the [accompanying repl](https://repl.it/@ritza/memory-game-starter-project#instructions.md) in Markdown format so you can easily edit them as required and the student can easily read the formatted version.
+Here's an example of how you could introduce your students to this project. These instructions are also in the [accompanying repl](https://replit.com/@ritza/memory-game-starter-project#instructions.md) in Markdown format so you can easily edit them as required and the student can easily read the formatted version.
 
 <hr/>
 
@@ -61,7 +61,7 @@ Each turn, the player may turn over two cards. If the cards match (have the same
 
 #### Starter code
 
-The code in [`main.py`](https://repl.it/@ritza/memory-game-starter-project#main.py) includes a basic PyGame example which lays out the cards face up. When the player clicks on the cards, they are turned face down.
+The code in [`main.py`](https://replit.com/@ritza/memory-game-starter-project#main.py) includes a basic PyGame example which lays out the cards face up. When the player clicks on the cards, they are turned face down.
 
 #### Instructions
 
@@ -94,7 +94,7 @@ Apart from checking that the basic and optional features that your students have
 
 ### Plagiarism
 
-It is likely that your students will be able to find similar projects online, so as always plagiarism is likely to be a problem. A good example of this game with all of the features implemented is at [InventWithPython's memory game](https://inventwithpython.com/pygame/chapter3.html) whic you can run on Repl.it from [this repl](https://repl.it/@ritza/memorypuzzle-iwp).
+It is likely that your students will be able to find similar projects online, so as always plagiarism is likely to be a problem. A good example of this game with all of the features implemented is at [InventWithPython's memory game](https://inventwithpython.com/pygame/chapter3.html) whic you can run on Repl.it from [this repl](https://replit.com/@ritza/memorypuzzle-iwp).
 
 ![](https://i.ritzastatic.com/06106c5cfa97444aa1f67f743b94a022/iwp-advancedsolution.png)
 
@@ -119,7 +119,7 @@ Games are also a good way to introduce concepts from User Experience (UX) to you
 
 We went through an enrichment example using PyGame in this guide. PyGame is a great library for beginners as it gives them enough features to easily build advanced features (e.g. an easy way to draw a UI and track user events), but it is still low level enough for the student to have to understand fundamental concepts like the game loop and drawing objects based on pixel coordinates.
 
-For more PyGame inspiration, take a look at our basic [Juggling Game](https://docs.repl.it/tutorials/07-building-a-game-with-pygame) which includes an example of how to animate objects too.
+For more PyGame inspiration, take a look at our basic [Juggling Game](https://docs.replit.cm/tutorials/07-building-a-game-with-pygame) which includes an example of how to animate objects too.
 
 As we mentioned, data science and web application development are also good topics to set for enrichment homework. Take a look at our collection of [Python projects for beginners](https://www.codewithrepl.it/python-projects-for-beginners.html) for more ideas.
 
